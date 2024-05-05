@@ -1,0 +1,811 @@
+.button-1{
+    background-color: black;
+    color: white;
+}
+.button-2{
+    background-color: black;
+    color: white;
+}
+.button-3{
+    background-color: black;
+    color: white;
+}
+.button-4{
+    background-color: black;
+    color: white;
+}
+.button-5{
+    background-color: black;
+    color: white;
+}
+.button-6{
+    background-color: black;
+    color: white;
+}
+.button-7{
+    background-color: black;
+    color: white;
+}
+.button-8{
+    background-color: black;
+    color: white;
+}
+.button-9{
+    background-color: black;
+    color: white;
+}
+.button-10{
+    background-color: black;
+    color: white;
+}
+.button-11{
+    background-color: black;
+    color: white;
+}
+.button-12{
+    background-color: black;
+    color: white;
+}
+.button-13{
+    background-color: black;
+    color: white;
+}
+.button-14{
+    background-color: black;
+    color: white;
+}
+.button-15{
+    background-color: black;
+    color: white;
+}
+.button-16{
+    background-color: black;
+    color: white;
+}
+.button-17{
+    background-color: black;
+    color: white;
+}
+.button-18{
+    background-color: black;
+    color: white;
+}
+.button-19{
+    background-color: black;
+    color: white;
+}
+.button-20{
+    background-color: black;
+    color: white;
+}
+.button-21{
+    background-color: black;
+    color: white;
+    padding: 3px 14px;
+}
+.button-22{
+    background-color: black;
+    color: white;
+    padding: 3px 14px;
+}
+.button-23{
+    background-color: black;
+    color: white;
+    padding: 3px 14px;
+}
+.button-24{
+    background-color: black;
+    color: white;
+    padding: 3px 14px;
+}
+.button-25{
+    background-color: black;
+    color: white;
+    padding: 3px 14px;
+}
+.button-26{
+    background-color: black;
+    color: white;
+    padding: 3px 14px;
+}
+.button-27{
+    background-color: black;
+    color: white;
+    padding: 3px 14px;
+}
+.button-28{
+    background-color: black;
+    color: white;
+    padding: 3px 14px;
+}
+.button-29{
+    background-color: black;
+    color: white;
+    padding: 3px 14px;
+}
+.button-30{
+    background-color: black;
+    color: white;
+    padding: 3px 14px;
+}
+.button-31{
+    background-color: black;
+    color: white;
+    padding: 3px 14px;
+}
+.button-32{
+    background-color: black;
+    color: white;
+    padding: 3px 14px;
+}
+.button-33{
+    background-color: black;
+    color: white;
+    padding: 3px 14px;
+}
+.box{
+    background-color: black;
+    color: white;
+    width: 74px;
+    height: 14px;
+    padding: 11px;
+    margin-left: 578px;
+    margin-top: -40px;
+    border: 2px solid dimgray;
+}
+.p{
+    margin-left: 592.5px;
+    font-size: 17px;
+    margin-top: -30px;
+    color: white;
+}
+.box-1{
+    background-color: black;
+    color: white;
+    padding: 11px 16px;
+    margin-left: 682px;
+    margin-top: -47px;
+    width: 6px;
+    height: 14px;
+    border: 2px solid dimgray;
+}
+.box-2{
+    background-color: black;
+    color: white;
+    padding: 11px 16px;
+    width: 6px;
+    height: 14px;
+    border: 2px solid dimgray;
+    margin-left: 727px;
+    margin-top: -40px;
+}
+.box-3{
+    background-color: black;
+    color: white;
+    padding: 11px 16px;
+    width: 6px;
+    height: 14px;
+    border: 2px solid dimgray;
+    margin-left: 772px;
+    margin-top: -40px;
+}
+.box-4{
+    background-color: black;
+    color: white;
+    padding: 11px 16px;
+    width: 17.5px;
+    height: 14px;
+    border: 2px solid dimgray;
+    margin-left: 817px;
+    margin-top: -40px;
+}
+.p-1{
+    font-size: 12px;
+    margin-top: -7px;
+    margin-left: -3px;
+}
+.button-34{
+    background-color: black;
+    color: white;
+    padding: 3px 14px;
+    height: 44px;
+    width: 62px;
+}
+.box-5{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 15px;
+    height: 34px;
+    border: 2px solid dimgray;
+    margin-left: 66px;
+    margin-top: -44px;
+}
+.box-6{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 15px;
+    height: 34px;
+    border: 2px solid dimgray;
+    margin-left: 123px;
+    margin-top: -44px;
+}
+.box-7{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 15px;
+    height: 34px;
+    border: 2px solid dimgray;
+    margin-left: 180px;
+    margin-top: -44px;
+}
+.box-8{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 15px;
+    height: 34px;
+    border: 2px solid dimgray;
+    margin-left: 237px;
+    margin-top: -44px;
+}
+.box-9{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 15px;
+    height: 34px;
+    border: 2px solid dimgray;
+    margin-left: 294px;
+    margin-top: -44px;
+}
+.box-10{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 15px;
+    height: 34px;
+    border: 2px solid dimgray;
+    margin-left: 351px;
+    margin-top: -44px;
+}
+.box-11{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 15px;
+    height: 34px;
+    border: 2px solid dimgray;
+    margin-left: 408px;
+    margin-top: -44px;
+}
+.box-12{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 34px;
+    border: 2px solid dimgray;
+    margin-left: 465px;
+    margin-top: -44px;
+}
+.box-13{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 34px;
+    border: 2px solid dimgray;
+    margin-left: 520px;
+    margin-top: -44px;
+}
+.box-14{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 34px;
+    border: 2px solid dimgray;
+    margin-left: 575px;
+    margin-top: -44px;
+}
+.box-15{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 34px;
+    border: 2px solid dimgray;
+    margin-left: 630px;
+    margin-top: -44px;
+}
+.box-16{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 34px;
+    border: 2px solid dimgray;
+    margin-left: 685px;
+    margin-top: -44px;
+}
+.box-17{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 34px;
+    border: 2px solid dimgray;
+    margin-left: 740px;
+    margin-top: -44px;
+}
+.box-18{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 38px;
+    height: 34px;
+    border: 2px solid dimgray;
+    margin-left: 795px;
+    margin-top: -44px;
+}
+.p-2{
+    color: white;
+    margin-top: 1px;
+    margin-left: 15px;
+}
+.p-3{
+    color: white;
+    margin-top: -16px;
+    margin-left: 1px;
+    font-size: 14px;
+}
+.button-35{
+    background-color: black;
+    color: white;
+    padding: 12px 18px;
+}
+.box-19{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 93px;
+    margin-top: -43px;
+}
+.box-20{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 148px;
+    margin-top: -43px;
+}
+.box-21{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 203px;
+    margin-top: -43px;
+}
+.box-22{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 258px;
+    margin-top: -43px;
+}
+.box-23{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 313px;
+    margin-top: -43px;
+}
+.box-24{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 368px;
+    margin-top: -43px;
+}
+.box-25{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 423px;
+    margin-top: -43px;
+}
+.box-26{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 478px;
+    margin-top: -43px;
+}
+.box-27{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 533px;
+    margin-top: -43px;
+}
+.box-28{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 588px;
+    margin-top: -43px;
+}
+.box-29{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 643px;
+    margin-top: -43px;
+}
+.box-30{
+    background-color: black;
+    color: white;
+    padding: 3px 30px;
+    width: 24px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 698px;
+    margin-top: -43px;
+}
+.p-4{
+    color: white;
+    margin-top: 7px;
+    font-size: 17px;
+    margin-left: -8px;
+}
+.box-31{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 43px;
+    height: 34px;
+    border: 2px solid dimgray;
+    margin-left: 790px;
+    margin-top: -43px;
+}
+.p-5{
+    color: white;
+    margin-top: 1px;
+    margin-left: 18.5px;
+}
+.p-6{
+    color: white;
+    margin-top: -16px;
+    font-size: 14px;
+    margin-left: 6px;
+}
+.button-36{
+    background-color: black;
+    color: white;
+    padding: 12px 40px;
+}
+.box-32{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 119px;
+    margin-top: -43px;
+}
+.box-33{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 174px;
+    margin-top: -43px;
+}
+.box-34{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 229px;
+    margin-top: -43px;
+}
+.box-35{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 284px;
+    margin-top: -43px;
+}
+.box-36{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 339px;
+    margin-top: -43px;
+}
+.box-37{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 394px;
+    margin-top: -43px;
+}
+.box-38{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 449px;
+    margin-top: -43px;
+}
+.box-39{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 504px;
+    margin-top: -43px;
+}
+.box-40{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 559px;
+    margin-top: -43px;
+}
+.box-41{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 614px;
+    margin-top: -43px;
+}
+.box-42{
+    background-color: black;
+    color: white;
+    padding: 3px 23px;
+    width: 32px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 669px;
+    margin-top: -43px;
+}
+.box-43{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 18px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 755px;
+    margin-top: -43px;
+}
+.box-44{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 20px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 815px;
+    margin-top: -43px;
+}
+.p-7{
+    color: white;
+    margin-top: -18px;
+    margin-left: -5px;
+}
+.p-8{
+    color: white;
+    margin-top: 1px;
+    margin-left: 6px;
+}
+.button-37{
+    background-color: black;
+    color: white;
+    padding: 12px 18px;
+}
+.box-45{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 18px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 68px;
+    margin-top: -43px;
+}
+.p-9{
+    color: rgba(255, 0, 0, 0.959);
+    margin-top: 7px;
+    margin-left: -0.5px;
+    font-size: 18px;
+}
+.box-46{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 18px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 129px;
+    margin-top: -43px;
+}
+.box-inner-box{
+    background-color: white;
+    width: 15px;
+    height: 10px;
+    margin-left: 141px;
+    margin-top: -32px;
+}
+.box-inner-box-1{
+    background-color: white;
+    width: 15px;
+    height: 10px;
+    margin-left: 158px;
+    margin-top: -10px;
+}
+.box-inner-box-2{
+    background-color: white;
+    width: 15px;
+    height: 10px;
+    margin-left: 141px;
+    margin-top: 2px;
+}
+.box-inner-box-3{
+    background-color: white;
+    width: 15px;
+    height: 10px;
+    margin-left: 158px;
+    margin-top: -10px;
+}
+.box-47{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 190px;
+    margin-top: -33px;
+}
+.p-10{
+    color: white;
+    margin-top: 8px;
+    margin-left: -5px;
+}
+.box-48{
+    background-color: black;
+    color: white;
+    padding: 3px 140px;
+    width: 37px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 246px;
+    margin-top: -43px;
+}
+.box-49{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 23px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 572px;
+    margin-top: -43px;
+}
+.box-50{
+    background-color: black;
+    color: white;
+    padding: 11.5px 15px;
+    width: 30px;
+    height: 16px;
+    border: 2px solid dimgray;
+    margin-left: 638px;
+    margin-top: -43px;
+}
+.box-51{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 37px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 707px;
+    margin-top: -43px;
+}
+.box-52{
+    background-color: black;
+    color: white;
+    padding: 3px 17px;
+    width: 13px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 787px;
+    margin-top: -43px;
+}
+.p-11{
+    color: white;
+    margin-top: 1px;
+    margin-left: 3px;
+}
+.p-12{
+    color: white;
+    margin-top: -18px;
+    margin-left: -3.5px;
+}
+.box-53{
+    background-color: black;
+    color: white;
+    padding: 3px 12.5px;
+    width: 1px;
+    height: 33px;
+    border: 2px solid dimgray;
+    margin-left: 843px;
+    margin-top: -43px;
+}
+.p-13{
+    color: rgba(255, 0, 0, 0.959);
+    margin-top: 7px;
+    margin-left: -7px;
+    font-size: 17px;
+}
